@@ -10,7 +10,7 @@
 .contents .cont1 .c1{display: none;} 
     
  /*cont1_c2*/    
-.contents .cont1 .c2{width: 100%; height:1040px;}
+.contents .cont1 .c2{width: 100%; height:2800px;}
 .contents .cont1 .c2_m{display: none;}  
 .contents .cont1 .c2 h2{font-size: 40px; margin-top: 40px;} 
 .contents .cont1 .c2 .sort{padding-left: 56%;}     
@@ -42,7 +42,7 @@
     
  /*cont1_c2*/    
 .contents .cont1 .c2{width: 100%;}
-.contents .cont1 .c2{height:1040px;} 
+.contents .cont1 .c2{height:2100px;} 
 
 .contents .cont1 .c2 .sort{padding-left:71%;}     
 .contents .cont1 .c2 .sort select{width:14%; height: 32px;}
